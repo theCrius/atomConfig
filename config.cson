@@ -1,0 +1,86 @@
+"*":
+  "atom-autocomplete-php":
+    binComposer: "C:\\ProgramData\\ComposerSetup\\bin\\composer.bat"
+    gotoKey: "ctrl"
+  "atom-beautify":
+    general:
+      _analyticsUserId: "be5c738c-a76d-4e92-898c-839ec4accd76"
+    js:
+      brace_style: "collapse-preserve-inline"
+      default_beautifier: "ESLint Fixer"
+      space_in_paren: true
+    typescript:
+      brace_style: "collapse-preserve-inline"
+      jslint_happy: true
+      space_in_paren: true
+  "atom-ide-ui":
+    use:
+      "atom-ide-busy-signal": "default"
+      "atom-ide-code-actions": "default"
+      "atom-ide-code-format": "default"
+      "atom-ide-code-highlight": "default"
+      "atom-ide-console": "default"
+      "atom-ide-datatip": "default"
+      "atom-ide-debugger": "default"
+      "atom-ide-definitions": "default"
+      "atom-ide-diagnostics": "default"
+      "atom-ide-diagnostics-ui": "never"
+      "atom-ide-find-references": "default"
+      "atom-ide-global": "default"
+      "atom-ide-outline-view": "default"
+      "atom-ide-signature-help": "default"
+      "atom-ide-terminal": "default"
+      hyperclick: "default"
+  core:
+    autoHideMenuBar: true
+    excludeVcsIgnoredPaths: false
+    openEmptyEditorOnStart: false
+    packagesWithKeymapsDisabled: [
+      "hyperclick"
+    ]
+    projectHome: "C:\\inetpub\\wwwroot"
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 15
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "d1df0df2-dfec-4f8c-8adb-aeb48ba2f7df"
+  "git-blame":
+    columnWidth: 254
+  hyperclick:
+    linuxTriggerKeys: "ctrlKey"
+    win32TriggerKeys: "ctrlKey"
+  "ide-php":
+    phpPath: "c:\\php\\php.exe"
+  "js-hyperclick":
+    usePendingPanes: true
+  "linter-ui-default":
+    panelHeight: 229
+  "php-integrator-base":
+    general:
+      indexContinuously: false
+    linting:
+      enable: false
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        blue: "#4040ff"
+        green: "#82ff82"
+      zBright:
+        brightBlue: "#6f6fff"
+        brightGreen: "#6fff6f"
+    core:
+      shell: "c:\\windows\\system32\\cmd.exe"
+    style:
+      theme: "dracula"
+    toggles:
+      autoClose: true
+  "tree-view":
+    hideVcsIgnoredFiles: false
+  "tree-view-git-status":
+    gitFlow:
+      display_type: 3
+      enabled: false
+  welcome:
+    showOnStartup: false
